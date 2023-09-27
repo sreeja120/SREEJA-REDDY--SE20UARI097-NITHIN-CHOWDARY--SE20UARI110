@@ -1,2 +1,3 @@
 # SREEJA-REDDY--SE20UARI097-NITHIN-CHOWDARY--SE20UARI110
-Raspberrypi using a temperature sensor          
+Raspberrypi using a temperature sensor     
+We used a Raspberry Pi 3.0b and a DHT11 temperature sensor for this task. First, we used Real VNCviewer to connect the Raspberry Pi to the system, then we linked the Pi to the same wifi. Then, the pyrebase and Adafruit_DHT modules were installed. Now that the code has been developed, we can authenticate it to Firebase using the Apikey, URL, and storage bucket while using both Adafruit and Pyrebase modules. Then we executed the code, which was able to return the temperature data from the associated Firebase while catching the sensor
